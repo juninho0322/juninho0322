@@ -21,7 +21,6 @@ I build structured, scalable frontend applications with system-level thinking an
 <p> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=ts" /> </p>
 🎬 UI & Animation
 <p> <img src="https://skillicons.dev/icons?i=styledcomponents" /> <img src="https://skillicons.dev/icons?i=tailwind" /> </p>
-
 GSAP (Advanced animation library)
 
 🛠 Tools & Backend Exposure
@@ -38,7 +37,9 @@ Modal-based architecture
 Reusable components
 Clean folder structure
 Responsive layout
+
 👉 Focus: State management & scalable frontend architecture
+
 
 📦 Stock Control / Mini WMS (In Development)
 Inspired by real warehouse systems.
@@ -48,7 +49,9 @@ Inventory logic engine
 API integration
 Structured data modelling
 Role-based interaction
+
 👉 Focus: Real-world operational system simulation
+
 
 🌐 Portfolio Website
 Built with pure HTML, CSS & JavaScript.
@@ -58,7 +61,9 @@ Scroll-based active link system
 GSAP animation layer
 Custom design system
 Performance-focused layout
+
 👉 Focus: Deep frontend fundamentals
+
 
 🎯 Currently Seeking
 Junior Front-End Developer role
