@@ -95,22 +95,6 @@
 
 <h2>📌 Featured Projects</h2>
 
-<h3>🍋 Little Lemon (React Application) — <i>Released 2025</i></h3>
-
-<ul>
-  <li>Centralized cart state (single source of truth)</li>
-  <li>Category filtering using React state</li>
-  <li>Reusable component system</li>
-  <li>Clean, scalable folder structure</li>
-</ul>
-
-<p><b>Focus:</b> Scalable component architecture + structured state logic</p>
-
-<p>
-  <a href="YOUR_LITTLE_LEMON_REPO"><b>Repo</b></a>
-  &nbsp;•&nbsp;
-  <a href="YOUR_LITTLE_LEMON_LIVE"><b>Live</b></a>
-</p>
 
 <hr/>
 
@@ -133,6 +117,24 @@
 
 <hr/>
 
+<h3>🍋 Little Lemon (React Application) — <i>Released 2025</i></h3>
+
+<ul>
+  <li>Centralized cart state (single source of truth)</li>
+  <li>Category filtering using React state</li>
+  <li>Reusable component system</li>
+  <li>Clean, scalable folder structure</li>
+</ul>
+
+<p><b>Focus:</b> Scalable component architecture + structured state logic</p>
+
+<p>
+  <a href="YOUR_LITTLE_LEMON_REPO"><b>Repo</b></a>
+  &nbsp;•&nbsp;
+  <a href="YOUR_LITTLE_LEMON_LIVE"><b>Live</b></a>
+</p>
+
+<hr/>
 <h3>📦 Stock Control / Mini WMS — <i>In Progress</i></h3>
 
 <ul>
