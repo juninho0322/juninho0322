@@ -53,68 +53,73 @@
 
 <h2>📌 Featured Projects</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧿 Resiliency Tattoo Shop — <i>Released 2024</i></h3>
-      <ul>
-        <li>First real live production website</li>
-        <li>Contact/booking forms with backend email workflow</li>
-        <li>Nodemailer SMTP server integration</li>
-        <li>Production deployment with environment variables</li>
-      </ul>
-      <p><b>Focus:</b> deployment + backend email workflow</p>
-      <p><a href="YOUR_RESILIENCY_REPO"><b>Repo</b></a> &nbsp;•&nbsp; <a href="YOUR_RESILIENCY_LIVE"><b>Live</b></a></p>
-      <p>&nbsp;</p><p>&nbsp;</p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>🍋 Little Lemon (React App) — <i>Released 2025</i></h3>
-      <ul>
-        <li>Centralized cart state (single source of truth)</li>
-        <li>Category filtering via React state (no router misuse)</li>
-        <li>Reusable components + clean structure</li>
-        <li>Responsive UI</li>
-      </ul>
-      <p><b>Focus:</b> scalable component architecture + state management</p>
-      <p><a href="YOUR_LITTLE_LEMON_REPO"><b>Repo</b></a> &nbsp;•&nbsp; <a href="YOUR_LITTLE_LEMON_LIVE"><b>Live</b></a></p>
-      <p>&nbsp;</p><p>&nbsp;</p>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website — <i>Release 2026</i></h3>
-      <ul>
-        <li>Pure HTML/CSS/JS</li>
-        <li>IntersectionObserver scroll-based active nav</li>
-        <li>GSAP animation layer + scroll polish</li>
-        <li>Custom design system</li>
-      </ul>
-      <p><b>Focus:</b> fundamentals + UI polish</p>
-      <p><a href="YOUR_PORTFOLIO_REPO"><b>Repo</b></a> &nbsp;•&nbsp; <a href="YOUR_PORTFOLIO_LIVE"><b>Live</b></a></p>
-      <p>&nbsp;</p><p>&nbsp;</p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3>📦 Stock Control / Mini WMS — <i>In Progress</i></h3>
-      <ul>
-        <li>Inspired by real warehouse operations (WMS mindset)</li>
-        <li>TypeScript-first approach</li>
-        <li>Inventory logic + structured data modelling</li>
-        <li>API integration planned</li>
-      </ul>
-      <p><b>Focus:</b> operational system simulation</p>
-      <p><a href="YOUR_STOCK_CONTROL_REPO"><b>Repo</b></a></p>
-      <p>&nbsp;</p><p>&nbsp;</p>
-    </td>
-  </tr>
-</table>
+<div>
+  <h3>🧿 Resiliency Tattoo Shop — <i>Released 2024</i></h3>
+  <ul>
+    <li>First real live production website</li>
+    <li>Contact/booking forms with backend email workflow</li>
+    <li>Nodemailer SMTP server integration</li>
+    <li>Production deployment with environment variables</li>
+  </ul>
+  <p><b>Focus:</b> deployment + backend email workflow</p>
+  <p>
+    <a href="YOUR_RESILIENCY_REPO"><b>Repo</b></a>
+    &nbsp;•&nbsp;
+    <a href="YOUR_RESILIENCY_LIVE"><b>Live</b></a>
+  </p>
+</div>
 
 <hr/>
 
+<div>
+  <h3>🍋 Little Lemon (React App) — <i>Released 2025</i></h3>
+  <ul>
+    <li>Centralized cart state (single source of truth)</li>
+    <li>Category filtering via React state (no router misuse)</li>
+    <li>Reusable components + clean structure</li>
+    <li>Responsive UI</li>
+  </ul>
+  <p><b>Focus:</b> scalable component architecture + state management</p>
+  <p>
+    <a href="YOUR_LITTLE_LEMON_REPO"><b>Repo</b></a>
+    &nbsp;•&nbsp;
+    <a href="YOUR_LITTLE_LEMON_LIVE"><b>Live</b></a>
+  </p>
+</div>
+
+<hr/>
+
+<div>
+  <h3>🌐 Portfolio Website — <i>Release 2026</i></h3>
+  <ul>
+    <li>Pure HTML/CSS/JS</li>
+    <li>IntersectionObserver scroll-based active nav</li>
+    <li>GSAP animation layer + scroll polish</li>
+    <li>Custom design system</li>
+  </ul>
+  <p><b>Focus:</b> fundamentals + UI polish</p>
+  <p>
+    <a href="YOUR_PORTFOLIO_REPO"><b>Repo</b></a>
+    &nbsp;•&nbsp;
+    <a href="YOUR_PORTFOLIO_LIVE"><b>Live</b></a>
+  </p>
+</div>
+
+<hr/>
+
+<div>
+  <h3>📦 Stock Control / Mini WMS — <i>In Progress</i></h3>
+  <ul>
+    <li>Inspired by real warehouse operations (WMS mindset)</li>
+    <li>TypeScript-first approach</li>
+    <li>Inventory logic + structured data modelling</li>
+    <li>API integration planned</li>
+  </ul>
+  <p><b>Focus:</b> operational system simulation</p>
+  <p>
+    <a href="YOUR_STOCK_CONTROL_REPO"><b>Repo</b></a>
+  </p>
+</div>
 <h2>🎯 Currently Seeking</h2>
 <ul>
   <li>Junior Front-End Developer role</li>
