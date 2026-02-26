@@ -95,25 +95,6 @@
 
 <h2>📌 Featured Projects</h2>
 
-<h3>🧿 Resiliency Tattoo Shop — <i>Released 2024</i></h3>
-
-<ul>
-  <li>First real live production website</li>
-  <li>Contact & booking forms with backend email workflow</li>
-  <li>Nodemailer SMTP server integration</li>
-  <li>Production deployment using environment variables</li>
-</ul>
-
-<p><b>Focus:</b> Real-world deployment + backend email workflow</p>
-
-<p>
-  <a href="YOUR_RESILIENCY_REPO"><b>Repo</b></a>
-  &nbsp;•&nbsp;
-  <a href="YOUR_RESILIENCY_LIVE"><b>Live</b></a>
-</p>
-
-<hr/>
-
 <h3>🍋 Little Lemon (React Application) — <i>Released 2025</i></h3>
 
 <ul>
@@ -166,7 +147,22 @@
 <p>
   <a href="YOUR_STOCK_CONTROL_REPO"><b>Repo</b></a>
 </p>
+<h3>🧿 Resiliency Tattoo Shop — <i>Released 2024</i></h3>
 
+<ul>
+  <li>First real live production website</li>
+  <li>Contact & booking forms with backend email workflow</li>
+  <li>Nodemailer SMTP server integration</li>
+  <li>Production deployment using environment variables</li>
+</ul>
+
+<p><b>Focus:</b> Real-world deployment + backend email workflow</p>
+
+<p>
+  <a href="YOUR_RESILIENCY_REPO"><b>Repo</b></a>
+  &nbsp;•&nbsp;
+  <a href="YOUR_RESILIENCY_LIVE"><b>Live</b></a>
+</p>
 <hr/>
 
 <h2>🎯 Currently Seeking</h2>
