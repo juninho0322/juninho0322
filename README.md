@@ -147,6 +147,7 @@
 <p>
   <a href="YOUR_STOCK_CONTROL_REPO"><b>Repo</b></a>
 </p>
+<hr/>
 <h3>🧿 Resiliency Tattoo Shop — <i>Released 2024</i></h3>
 
 <ul>
