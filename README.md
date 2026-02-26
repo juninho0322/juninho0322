@@ -1,79 +1,163 @@
-🚀 Luis Carlos Fernandes Junior
+<!-- =========================
+     HERO HEADER
+========================== -->
+<div align="center">
 
-Front-End Developer | React | JavaScript
-🎓 BSc (Hons) Computer Science (Foundation Year → 2026)
+  <h1>🚀 Luis Carlos Fernandes Junior</h1>
 
-👨‍💻 About Me
-UK-based Front-End Developer transitioning from logistics systems (WMS Super User) into software engineering.
-I build structured, scalable frontend applications with system-level thinking and performance awareness.
+  <p>
+    <b>Front-End Developer</b> • React • JavaScript • UI Animation (GSAP)
+    <br/>
+    🎓 <b>BSc (Hons) Computer Science</b> (Foundation Year → 2026)
+  </p>
 
-🧠 Mentorship & Growth
-✅ 50+ hours of 1:1 technical mentorship
-✅ Architecture feedback & code review sessions
-✅ Continuous improvement mindset
+  <p>
+    <a href="YOUR_LINKEDIN_URL"><b>LinkedIn</b></a>
+    &nbsp;•&nbsp;
+    <a href="YOUR_PORTFOLIO_URL"><b>Portfolio</b></a>
+    &nbsp;•&nbsp;
+    <a href="mailto:YOUR_EMAIL"><b>Email</b></a>
+  </p>
 
-📊 GitHub Activity
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=juninho0322&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=juninho0322&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninho0322&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+  <p>
+    ✅ 50+ hours of 1:1 technical mentorship & code reviews
+  </p>
 
-⚡ Tech Stack
+</div>
 
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=ts" /> </p>
-🎬 UI & Animation
-<p> <img src="https://skillicons.dev/icons?i=styledcomponents" /> <img src="https://skillicons.dev/icons?i=tailwind" /> </p>
-GSAP (Advanced animation library)
+<hr/>
 
-🛠 Tools & Backend Exposure
-<p> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=vercel" /> </p>
+<!-- =========================
+     QUICK STATS (PREMIUM LOOK)
+========================== -->
+<div align="center">
 
-📌 Featured Projects
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juninho0322&theme=github_dark"
+    alt="Profile details"
+    width="100%"
+  />
 
-🍋 Little Lemon – React Application
-Structured restaurant system built with scalable state logic.
-Highlights
-Centralized cart state (single source of truth)
-Category filtering via state logic
-Modal-based architecture
-Reusable components
-Clean folder structure
-Responsive layout
+  <br/><br/>
 
-👉 Focus: State management & scalable frontend architecture
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juninho0322&theme=github_dark"
+    alt="Stats"
+    height="165"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juninho0322&theme=github_dark&utcOffset=0"
+    alt="Productive time"
+    height="165"
+  />
 
+</div>
 
-📦 Stock Control / Mini WMS (In Development)
-Inspired by real warehouse systems.
-Planned Architecture
-TypeScript
-Inventory logic engine
-API integration
-Structured data modelling
-Role-based interaction
+<hr/>
 
-👉 Focus: Real-world operational system simulation
+<!-- =========================
+     TECH STACK (ICON GRID)
+========================== -->
+<h2>⚡ Tech Stack</h2>
 
+<div align="center">
 
-🌐 Portfolio Website
-Built with pure HTML, CSS & JavaScript.
-Technical Highlights
-IntersectionObserver navigation logic
-Scroll-based active link system
-GSAP animation layer
-Custom design system
-Performance-focused layout
+  <p><b>Frontend</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+  </p>
 
-👉 Focus: Deep frontend fundamentals
+  <p><b>Styling & UI</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" />
+  </p>
 
+  <p><b>Tools</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,vercel" />
+  </p>
 
-🎯 Currently Seeking
-Junior Front-End Developer role
-Apprenticeship opportunity
-Team-based product environment
-Code review & architecture exposure
+</div>
 
-🧠 Engineering Philosophy
-Break systems down before building
-Prioritise clarity over complexity
-Refactor intentionally
-Think in architecture, not just components
-Build consistently
+<hr/>
+
+<!-- =========================
+     HIGHLIGHT CARDS (VISUAL)
+========================== -->
+<h2>📌 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍋 Little Lemon (React App)</h3>
+      <ul>
+        <li>Centralized cart state (single source of truth)</li>
+        <li>Category filtering via state logic</li>
+        <li>Reusable components + clean structure</li>
+        <li>Responsive UI</li>
+      </ul>
+      <p><b>Focus:</b> scalable component architecture & state</p>
+      <p>
+        <a href="YOUR_LITTLE_LEMON_REPO"><b>Repo</b></a>
+        &nbsp;•&nbsp;
+        <a href="YOUR_LITTLE_LEMON_LIVE"><b>Live</b></a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>📦 Stock Control / Mini WMS (In Progress)</h3>
+      <ul>
+        <li>Inspired by real warehouse operations</li>
+        <li>TypeScript + structured data modelling</li>
+        <li>API integration (planned)</li>
+        <li>Role-based views (planned)</li>
+      </ul>
+      <p><b>Focus:</b> real-world system simulation</p>
+      <p>
+        <a href="YOUR_STOCK_CONTROL_REPO"><b>Repo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <ul>
+        <li>Pure HTML/CSS/JS</li>
+        <li>IntersectionObserver active nav</li>
+        <li>GSAP animations + scroll polish</li>
+        <li>Custom design system</li>
+      </ul>
+      <p><b>Focus:</b> fundamentals + design polish</p>
+      <p>
+        <a href="YOUR_PORTFOLIO_REPO"><b>Repo</b></a>
+        &nbsp;•&nbsp;
+        <a href="YOUR_PORTFOLIO_LIVE"><b>Live</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2>🎯 Currently Seeking</h2>
+
+<ul>
+  <li>Junior Front-End Developer role</li>
+  <li>Apprenticeship opportunity (UK)</li>
+  <li>Team environment with code reviews & real product work</li>
+</ul>
+
+<h2>🧠 Working Style</h2>
+
+<ul>
+  <li>Break systems down before building</li>
+  <li>Clarity over complexity</li>
+  <li>Refactor intentionally</li>
+  <li>Consistent learning + disciplined output</li>
+</ul>
