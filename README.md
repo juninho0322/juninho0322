@@ -9,11 +9,11 @@
   </p>
 
   <p>
-    <a href="YOUR_LINKEDIN_URL"><b>LinkedIn</b></a>
+    <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/luis-carlos-fernandes-junior-19660bb6/)"><b>LinkedIn</b></a>
     &nbsp;•&nbsp;
-    <a href="YOUR_PORTFOLIO_URL"><b>Portfolio</b></a>
+    <a href="[YOUR_PORTFOLIO_URL](https://juninho0322.github.io/portfolio/)"><b>Portfolio</b></a>
     &nbsp;•&nbsp;
-    <a href="mailto:YOUR_EMAIL"><b>Email</b></a>
+    <a href="mailto:juninho0322@gmail.com"><b>Email</b></a>
   </p>
 </div>
 
